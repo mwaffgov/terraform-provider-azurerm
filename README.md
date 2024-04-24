@@ -5,7 +5,6 @@
 # Terraform Provider for Azure (Resource Manager)
 
 The AzureRM Terraform Provider allows managing resources within Azure Resource Manager.
-
 When using version 3.0 of the AzureRM Provider we recommend using Terraform 1.x ([the latest version can be found here](https://www.terraform.io/downloads)). Whilst older versions of Terraform Core (0.12.x and later) remain compatible with v3.0 of the AzureRM Provider - support for versions prior to 1.0 will be removed in the next major release of the AzureRM Provider (v4.0).
 
 * [Terraform Website](https://www.terraform.io)
